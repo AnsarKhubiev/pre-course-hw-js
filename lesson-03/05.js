@@ -26,5 +26,5 @@ const newObj = {
     address: "Unknown",
 };
 
-const users3 = [...users2, newObj];
-console.log(users3);
+const newUsers2 = [...users2, newObj];
+console.log(newUsers2);
